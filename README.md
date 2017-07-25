@@ -1,2 +1,6 @@
 # Esp8266
-Libraries For ESP8266 Standalone
+This is an Arduino library for the DHT series With ESP8266 Standalone
+
+
+
+
